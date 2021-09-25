@@ -1,0 +1,1 @@
+View COPYING for more details.
