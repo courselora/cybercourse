@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/iblowmymind/cybercourse/issues"
   },
-  "homepage": "https://github.com/iblowmymind/cybercourse#readme"
+  "homepage": "https://github.com/iblowmymind/cybercourse#readme",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
 }
