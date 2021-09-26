@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./src/electron/index.js"
+    "start": "electron ./out/electron/index.js",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/iblowmymind/cybercourse#readme",
   "devDependencies": {
-    "electron": "^15.0.0"
+    "electron": "^15.0.0",
+    "typescript": "^4.4.3"
   }
 }
