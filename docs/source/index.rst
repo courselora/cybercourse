@@ -17,14 +17,14 @@ asdasd
 Bölümler
 --------
 
-* **Bölüm 1: Sibergüvenliğe Giriş**: :doc:`/chapter1/index`
-* **Bölüm 2: Sibergüvenliğin Esasları**: :doc:`/chapter2/index`
-* **Bölüm 3: Kişisel Bilgisayar Güvenliği: Güvenli Yazılım**: :doc:`/chapter3/index`
-* **Bölüm 4: İnternet Güvenliği: İnternet Bağlantısı**: :doc:`/chapter4/index`
-* **Bölüm 5: İnternet Güvenliği: Gizlilik**: :doc:`/chapter5/index`
-* **Bölüm 6: İnternet Güvenliği: Dijital Hesaplar**: :doc:`/chapter6/index`
-* **Bölüm 7: Gelişmiş Konseptler: İnternet**: :doc:`/chapter7/index`
-* **Bölüm 8: Gelişmiş Konseptler: Yazılım**: :doc:`/chapter8/index`
+* **Bölüm 1: Sibergüvenliğe Giriş**: :doc:`/chapter-1/index`
+* **Bölüm 2: Sibergüvenliğin Esasları**: :doc:`/chapter-2/index`
+* **Bölüm 3: Kişisel Bilgisayar Güvenliği: Güvenli Yazılım**: :doc:`/chapter-3/index`
+* **Bölüm 4: İnternet Güvenliği: İnternet Bağlantısı**: :doc:`/chapter-4/index`
+* **Bölüm 5: İnternet Güvenliği: Gizlilik**: :doc:`/chapter-5/index`
+* **Bölüm 6: İnternet Güvenliği: Dijital Hesaplar**: :doc:`/chapter-6/index`
+* **Bölüm 7: Gelişmiş Konseptler: İnternet**: :doc:`/chapter-7/index`
+* **Bölüm 8: Gelişmiş Konseptler: Yazılım**: :doc:`/chapter-8/index`
 
 
 .. toctree::
@@ -32,14 +32,14 @@ Bölümler
    :hidden:
    :caption: Bölümler
 
-   /chapter1/index
-   /chapter2/index
-   /chapter3/index
-   /chapter4/index
-   /chapter5/index
-   /chapter6/index
-   /chapter7/index
-   /chapter8/index
+   /chapter-1/index
+   /chapter-2/index
+   /chapter-3/index
+   /chapter-4/index
+   /chapter-5/index
+   /chapter-6/index
+   /chapter-7/index
+   /chapter-8/index
    
 Ekler
 -----
