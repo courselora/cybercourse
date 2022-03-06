@@ -6,32 +6,37 @@ Cybercourse: Siber Güvenlik Eğitim Yazılımı
 
 Bu Websitesi Nedir?
 -------------------
-asd
-
+(Sonra yazılacaktır)
 Websitesindeki bölümleri istediğiniz sırayla okuyabilirsiniz, ancak verilen sırada okumanız önerilir.
 
 Bu Websitesinin Amacı Nedir?
 ----------------------------
-asdasd
+(Sonra yazılacaktır)
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Ana Sayfa
+   
+   /index
 
 Bölümler
 --------
 
-* **Bölüm 1: Sibergüvenliğe Giriş**: :doc:`/chapter-1/index`
-* **Bölüm 2: Sibergüvenliğin Esasları**: :doc:`/chapter-2/index`
-* **Bölüm 3: Kişisel Bilgisayar Güvenliği: Güvenli Yazılım**: :doc:`/chapter-3/index`
-* **Bölüm 4: İnternet Güvenliği: İnternet Bağlantısı**: :doc:`/chapter-4/index`
-* **Bölüm 5: İnternet Güvenliği: Gizlilik**: :doc:`/chapter-5/index`
-* **Bölüm 6: İnternet Güvenliği: Dijital Hesaplar**: :doc:`/chapter-6/index`
-* **Bölüm 7: Gelişmiş Konseptler: İnternet**: :doc:`/chapter-7/index`
-* **Bölüm 8: Gelişmiş Konseptler: Yazılım**: :doc:`/chapter-8/index`
-
+* :doc:`/chapter-1/index`
+* :doc:`/chapter-2/index`
+* :doc:`/chapter-3/index`
+* :doc:`/chapter-4/index`
+* :doc:`/chapter-5/index`
+* :doc:`/chapter-6/index`
+* :doc:`/chapter-7/index`
+* :doc:`/chapter-8/index`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Bölümler
-
+   
    /chapter-1/index
    /chapter-2/index
    /chapter-3/index
@@ -40,31 +45,34 @@ Bölümler
    /chapter-6/index
    /chapter-7/index
    /chapter-8/index
-   
+
 Ekler
 -----
 
-* **Ek A: Teknoloji Sözlüğü**: :doc:`/appendix-a/index`
-* **Ek B: Kavram Haritası**: :doc:`/appendix-b/index`
-* **Ek C: Yararlı Kaynaklar**: :doc:`/appendix-c/index`
+* :doc:`/appendix-a/index`
+* :doc:`/appendix-b/index`
+* :doc:`/appendix-c/index`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Ekler
-
+   
    /appendix-a/index
    /appendix-b/index
    /appendix-c/index
-   
+
 Proje ve Yazar Hakkında
 ---------------------------
+* :doc:`/about-project/index`
+* :doc:`/about-author/index`
+* :doc:`/contact-author/index`
 
 .. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Websitesi ve Yazar Hakkında
-
+   
    /about-project/index
    /about-author/index
    /contact-author/index
