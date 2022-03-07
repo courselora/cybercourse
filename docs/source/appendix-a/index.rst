@@ -19,7 +19,7 @@ A-E
 
 F-K
 ---
-* **Internet of Things (IoT): Embedded cihazlar (genelde ev aletleri) arasında bağlantı kurmayı yarayan bir akıllı ağ türü. (Örn. bulaşık makineniz ev ana sistemiyle bağlantı kurup otomatik program saatleri ayarlayabilir.)
+* **Internet of Things (IoT)**: Embedded cihazlar (genelde ev aletleri) arasında bağlantı kurmayı yarayan bir akıllı ağ türü. (Örn. bulaşık makineniz ev ana sistemiyle bağlantı kurup otomatik program saatleri ayarlayabilir.)
 |
 
 L-Q
