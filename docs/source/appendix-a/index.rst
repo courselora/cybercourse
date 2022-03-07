@@ -42,7 +42,7 @@ L-Q
 
 R-W
 ---
-* **RAM (Random Access Memory)**:
+* **RAM (Random Access Memory)**: Aşırı hızlı veri depolama ünitesi, bellek. genellikle baş döndürücü hızlara çıkabilir, programlar RAM'e hızlı erişmeleri gereken verileri kopyalar, ancak RAM'in bilgisayar gücü kesilince silinir (kalıcı değildir).
 |
 * **Version Control System (VCS)**: Yazılım geliştiricilerinin kullandığı, ortaklaşa yazılım geliştirme veya değişiklikleri geri alma özellikleriyle bilinen yazılım türü, Sürüm Kontrol Sistemi. (Örn. `Git <https://git-scm.com>`_ veya `Subversion <https://subversion.apache.org/>`_)
 |
