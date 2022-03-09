@@ -31,6 +31,7 @@ Bölümler
 * :doc:`/chapter-6/index`
 * :doc:`/chapter-7/index`
 * :doc:`/chapter-8/index`
+* :doc:`/chapter-9/index`
 
 .. toctree::
    :maxdepth: 2
@@ -45,6 +46,7 @@ Bölümler
    /chapter-6/index
    /chapter-7/index
    /chapter-8/index
+   /chapter-9/index
 
 Ekler
 -----
