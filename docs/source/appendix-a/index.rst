@@ -2,7 +2,7 @@ Ek A: Teknoloji Sözlüğü
 =======================
 
 .. meta::
-   :description lang=tr: Burada sayfa hakkında bir mini-sözlüğe erişebilirsiniz.
+   :description lang=tr: Burada siberteknoloji hakkında bir mini-sözlüğe erişebilirsiniz.
 
 A-E
 ---
@@ -10,7 +10,7 @@ A-E
 * **Anonymous**: Kimliği bilinmeyen, anonim.
 * **Artificial Intelligence**: Düşünebilen veya düşünmeye yaklaşan, insan beynini, konuşmasını veya yapısını taklit eden teknoloji, yapay zeka.
 |
-* **Bit**: Bilgisayar veri biriminin yapıtaşı, bit. Bir bit, dijital işlemlerde sadece tek bir tane 0 veya 1 değerini temsil eden veridir.
+* **Bit**: Bilgisayar veri biriminin yapıtaşı, bit. Bir bit, dijital işlemlerde sadece tek bir tane 0 veya 1 (açık veya kapalı) değerini temsil eden veridir.
 * **Boot**: Başlatmak, çalıştırmak. (Örn, boot a computer: bilgisayarı başlatmak)
 * **Bootloader**: Önyükleyici.
 * **Byte**: Bilgisayar veri birimi, bayt. Bir bayt, 8 tane bitten oluşur. (bkz: bit'in tanımı)
@@ -26,7 +26,7 @@ A-E
 
 F-K
 ---
-* **Internet of Things (IoT)**: Embedded cihazlar (genelde ev aletleri) arasında bağlantı kurmayı yarayan bir akıllı ağ türü. (Örn. bulaşık makineniz ev ana sistemiyle bağlantı kurup otomatik program saatleri ayarlayabilir.)
+* **Internet of Things (IoT)**: Gömülü cihazlar (genelde ev aletleri) arasında bağlantı kurmayı yarayan bir akıllı ağ türü. (Örn. bulaşık makineniz ev ana sistemiyle bağlantı kurup otomatik program saatleri ayarlayabilir.)
 |
 * **Kilobyte**: 1000 (SI) veya 1024 (gerçek işlem) tane bayttan oluşan veri türü, kilobayt.
 |

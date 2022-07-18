@@ -1,7 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-
 project = 'Cybercourse'
 copyright = '2021-2022, Dağhan Tınaztepe'
 author = 'Dağhan Tınaztepe'
@@ -10,7 +9,6 @@ release = '0.1'
 version = '0.1.0'
 
 # -- General configuration
-
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
@@ -28,7 +26,6 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
