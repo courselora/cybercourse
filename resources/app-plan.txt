@@ -10,6 +10,8 @@ Bölüm 6: İnternet Güvenliği: Dijital Hesaplar
 Bölüm 7: Gelişmiş Konseptler: İnternet
 Bölüm 8: Gelişmiş Konseptler: Yazılım
 
+Bölüm 9: Kurumsal Sibergüvenliğe Giriş
+
 Ek A: Teknoloji Sözlüğü
 Ek B: Kavram Haritası
 Ek C: Yararlı Kaynaklar
