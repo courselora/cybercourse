@@ -27,6 +27,17 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 html_theme = 'sphinx_rtd_theme'
+html_logo = "logo.png"
+html_static_path = ['_static']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+
+html_theme_options = {
+    'analytics_id': 'G-P67XEQEL8H',  #  Provided by Google in your dashboard
+    'analytics_anonymize_ip': False,
+    'display_version': False,
+    'logo_only': True,
+}
