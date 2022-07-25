@@ -9,4 +9,4 @@ Thumbs.db
 /paper
 
 # Local build of documentation
-/docs/html
+/docs/build
