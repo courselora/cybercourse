@@ -8,7 +8,7 @@ Bu Websitesi Nedir?
 -------------------
 (Sonra yazılacaktır)
 Websitesindeki bölümleri istediğiniz sırayla okuyabilirsiniz, ancak verilen sırada okumanız önerilir.
-Bu kitap tamamen açık-kaynaklı ve ücretsizdir. Bir sorun keşfederseniz veya bir öneride bulunmak isterseniz, yazar ile iletişime geçebilirsiniz.:doc:`/contact-author`
+Bu kitap tamamen açık-kaynaklı ve ücretsizdir. Bir sorun keşfederseniz veya bir öneride bulunmak isterseniz, yazar ile iletişime geçebilirsiniz. :doc:`/contact-author`
 
 Bu Websitesinin Amacı Nedir?
 ----------------------------
