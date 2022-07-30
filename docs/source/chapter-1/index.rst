@@ -27,4 +27,4 @@ Sonradan, İnternet yaygınlaştıkca, başka firma ve gruplar kendi özellikler
 Dijital Konseptlere Giriş
 -------------------------
 
-İnternetin tarihini öğrendiğimize göre, şimdi internette görebileceğiniz bazı kavramlara giriş yapalım. Öncelikle, bu kitabın da ana konusu olan kavram: Sibergüvenlik.
+İnternetin tarihini öğrendiğimize göre, şimdi internette görebileceğiniz bazı kavramlara giriş yapalım. Öncelikle, bu kitabın da ana konusu olan kavram: Sibergüvenlik. Sibergüvenlik, 
