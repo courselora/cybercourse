@@ -12,7 +12,7 @@ Cybercourse, 7'den 70'e herkesi gelişen teknolojik ortamda siber güvenliğe e�
 
    Websitesindeki bölümleri istediğiniz sırayla okuyabilirsiniz, ancak verilen sırada okumanız önerilir.
 
-Bu kitap tamamen açık-kaynaklı ve ücretsizdir. Bir sorun keşfederseniz veya bir öneride bulunmak isterseniz, :ref:`/contact-author/index` bölümünden yazar ile iletişime geçebilirsiniz. 
+Bu kitap tamamen açık-kaynaklı ve ücretsizdir. Bir sorun keşfederseniz veya bir öneride bulunmak isterseniz, :doc:`/contact-author/index` bölümünden yazar ile iletişime geçebilirsiniz. 
 
 İçindekiler
 -----------
