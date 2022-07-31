@@ -5,8 +5,8 @@ project = 'Cybercourse'
 copyright = '2021-2022, Dağhan Tınaztepe'
 author = 'Dağhan Tınaztepe'
 
-release = '0.1'
-version = '0.1.0'
+# release = '0.1'
+# version = '0.1.0'
 
 # -- General configuration
 extensions = [
