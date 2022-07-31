@@ -6,13 +6,16 @@ Cybercourse: Siber Güvenlik Eğitim Yazılımı
 
 Bu Websitesi Nedir?
 -------------------
-(Sonra yazılacaktır)
-Websitesindeki bölümleri istediğiniz sırayla okuyabilirsiniz, ancak verilen sırada okumanız önerilir.
-Bu kitap tamamen açık-kaynaklı ve ücretsizdir. Bir sorun keşfederseniz veya bir öneride bulunmak isterseniz, yazar ile iletişime geçebilirsiniz. :doc:`/contact-author/index`
+Cybercourse, 7'den 70'e herkesi gelişen teknolojik ortamda siber güvenliğe eğitme amaçlı yazılan bir interaktif websitesidir.
 
-Bu Websitesinin Amacı Nedir?
-----------------------------
-(Sonra yazılacaktır)
+.. note::
+
+   Websitesindeki bölümleri istediğiniz sırayla okuyabilirsiniz, ancak verilen sırada okumanız önerilir.
+
+Bu kitap tamamen açık-kaynaklı ve ücretsizdir. Bir sorun keşfederseniz veya bir öneride bulunmak isterseniz, :ref:`/contact-author/index` bölümünden yazar ile iletişime geçebilirsiniz. 
+
+İçindekiler
+-----------
 
 .. toctree::
    :maxdepth: 1
