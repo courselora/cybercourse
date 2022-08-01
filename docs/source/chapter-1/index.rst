@@ -60,4 +60,4 @@ Kitap Hakkında: İnteraktif İçerikler Nedir?
 Bölüm Sonu Testi
 ~~~~~~~~~~~~~~~~
 
-Bölüm sonu testine erişmek için `buraya <https://link> tıklayın.`_
+Bölüm sonu testine erişmek için `buraya tıklayın <https://link>`_
