@@ -46,6 +46,18 @@ Sibergüvenlik birden fazla yöntemle sağlanabilir. Bu yöntemler karmaşık ol
 
 * Elinizdeki cihazı fiziksel yöntemlerle korumak (örn. kullanılmadığı zaman cihazı güvenli bir yere koymak)
 * Cihazı yazılımsal yollarla korumak (örn. anti-virüs yazılımı kullanmak)
-* Cihazı bilinçlendirmeyle korumak (örn. bilmediğiniz linklere tıklamamak, dijital hırsızlık tuzaklarına düşmemek)
+* Cihazı bilinçlendirmeyle korumak (örn. bilmediğiniz linklere tıklamamak, bilmediğiniz programları çalıştırmamak, dijital hırsızlık tuzaklarına düşmemek)
 
+Sonuç
+-----
 
+Bölüm İçin İnteraktif İçerik
+-----------------
+
+Kitap Hakkında: İnteraktif İçerikler Nedir?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bölüm Sonu Testi
+~~~~~~~~~~~~~~~~
+
+Bölüm sonu testine erişmek için `buraya <https://link> tıklayın.`_
