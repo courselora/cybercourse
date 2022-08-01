@@ -27,7 +27,25 @@ Sonradan, İnternet yaygınlaştıkca, başka firma ve gruplar kendi özellikler
 Dijital Konseptlere Giriş
 -------------------------
 
+Dijital Cihazlar Nelerdir?
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Dijital Cihazlar Nasıl Çalışır?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 Sibergüvenlik Nedir?
 ~~~~~~~~~~~~~~~~~~~~
 
-İnternetin tarihini öğrendiğimize göre, şimdi internette görebileceğiniz bazı kavramlara giriş yapalım. Öncelikle, bu kitabın da ana konusu olan kavram: Sibergüvenlik. Sibergüvenlik, bir teknolojik cihazı korumak için alınan önlemlerden herhangi birine denir.
+İnternetin tarihini öğrendiğimize göre, şimdi internette görebileceğiniz bazı kavramlara giriş yapalım. Öncelikle, bu kitabın da ana konusu olan kavram: Sibergüvenlik. Sibergüvenlik, bir teknolojik cihazı korumak için alınan önlemlerden herhangi birine denir. 
+
+Sibergüvenlik Hangi Yollarla Sağlanır?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sibergüvenlik birden fazla yöntemle sağlanabilir. Bu yöntemler karmaşık olmak bile zorunda değil! Bu yöntemlerden yanlızca bir kısmını özetlersek:
+
+* Elinizdeki cihazı fiziksel yöntemlerle korumak (örn. kullanılmadığı zaman cihazı güvenli bir yere koymak)
+* Cihazı yazılımsal yollarla korumak (örn. anti-virüs yazılımı kullanmak)
+* Cihazı bilinçlendirmeyle korumak (örn. bilmediğiniz linklere tıklamamak, dijital hırsızlık tuzaklarına düşmemek)
+
+
