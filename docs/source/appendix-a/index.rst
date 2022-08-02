@@ -8,6 +8,7 @@ A-E
 ---
 * **Analog**: 0 ve 1 arasındaki fiziksel frekans değerleriyle temsil edilen veri.
 * **Anonymous**: Kimliği bilinmeyen, anonim.
+* **Antivirus**: Virüs yazılımlarından koruma sağlayan yazılım, antivirüs.
 * **Artificial Intelligence**: Düşünebilen veya düşünmeye yaklaşan, insan beynini, konuşmasını veya yapısını taklit eden teknoloji, yapay zeka.
 
 |
@@ -35,6 +36,10 @@ A-E
 
 F-K
 ---
+* **Firewall**:
+
+|
+
 * **Internet of Things (IoT)**: Gömülü cihazlar (genelde ev aletleri) arasında bağlantı kurmayı yarayan bir akıllı ağ türü. (Örn. bulaşık makineniz ev ana sistemiyle bağlantı kurup otomatik program saatleri ayarlayabilir.)
 
 |
@@ -45,6 +50,7 @@ F-K
 
 L-Q
 ---
+* **Malware**: 
 * **Megabyte**: 1000 (SI) veya 1024 (gerçek işlem) tane kilobayttan oluşan veri türü, megabayt. (1024\*1024 bayt)
 
 |
@@ -63,7 +69,12 @@ R-W
 
 |
 
+* **Trojan**: 
+
+|
+
 * **Version Control System (VCS)**: Yazılım geliştiricilerinin kullandığı, ortaklaşa yazılım geliştirme veya değişiklikleri geri alma özellikleriyle bilinen yazılım türü, Sürüm Kontrol Sistemi. (Örn. `Git <https://git-scm.com>`_ veya `Subversion <https://subversion.apache.org/>`_)
+* **Virus**: , virüs.
 
 |
 

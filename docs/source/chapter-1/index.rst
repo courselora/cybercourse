@@ -52,7 +52,7 @@ Sonuç
 -----
 
 Bölüm İçin İnteraktif İçerik
------------------
+----------------------------
 
 Kitap Hakkında: İnteraktif İçerikler Nedir?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

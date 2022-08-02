@@ -33,8 +33,7 @@ html_static_path = ['_static']
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-
-
+# -- HTML Theme options
 html_theme_options = {
     'analytics_id': 'G-P67XEQEL8H',  #  Provided by Google in your dashboard
     'analytics_anonymize_ip': False,
