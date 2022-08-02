@@ -4,8 +4,8 @@ Bölüm 1: Sibergüvenliğe Giriş
 .. meta::
    :description lang=tr: Kitabın birinci bölümü, "Sibergüvenliğe Giriş".
 
-Başlangıç
----------
+Giriş
+-----
 
 Sibergüvenlik, günümüz dünyasında herkesin bilmesi gereken ama kimsenin tam olarak bilmediği, dijital yaşam için neredeyse gerekli olan bilgilerden biri. Toplumun çoğunun, "sibergüvenlik" kelimesini duyduğu zaman aklından geçen ilk şey neredeyse her zaman "Bu çok karmaşık bir konu!"'dur. Şahsen, anlatımı doğru ve herkese hitap edecek bir şekilde yapıldığı sürece bu kanının hiç de doğru olmadığını düşünüyorum. Ancak, böyle bir kitle potansiyeli olan bir proje fikrinin hiç uygulanmaması bana ilginç geliyor. İşte tam bu yüzden bu projeyi oluşturdum: Sibergüvenlik konusunda bilgisi zayıf olan veya hiç olmayan, bu konuları genelde anlamayan insanlara bir girişte bulunmak ve toplumu günümüz siber dünyasının çetin koşullarına hazırlamak.
 
@@ -26,6 +26,8 @@ Sonradan, İnternet yaygınlaştıkca, başka firma ve gruplar kendi özellikler
 
 Dijital Konseptlere Giriş
 -------------------------
+
+Bu bölümde, dijital dünyada karşılaşabileceğiniz bazı konseptlere giriş yapacağız. Bu bölümde sadece yüzeysel olarak değinsek de, sonraki bölümlerde buradaki çoğu konuyu daha detaylı açıklayacağız.
 
 Dijital Cihazlar Nelerdir?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,14 +50,38 @@ Sibergüvenlik birden fazla yöntemle sağlanabilir. Bu yöntemler karmaşık ol
 * Cihazı yazılımsal yollarla korumak (örn. anti-virüs yazılımı kullanmak)
 * Cihazı bilinçlendirmeyle korumak (örn. bilmediğiniz linklere tıklamamak, bilmediğiniz programları çalıştırmamak, dijital hırsızlık tuzaklarına düşmemek)
 
+Dijital Zararlı Yazılımlar Nelerdir?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Virüs
+"""""
+
+Malware
+"""""""
+
+Trojan Atı
+""""""""""
+
+Solucan
+"""""""
+
+Ransomware (Fidye Yazılımı)
+""""""""""
+
 Sonuç
 -----
+
+Tebrikler! Bu bölümü bitirdiyseniz, sibergüvenlik derslerinde bir başlangıç yapmaya hazırsınız demektir! Burdan sonra, bir sonraki bölüme ilerleyebilir, veya bilginizi kontrol etmek için bölüm sonundaki testi yapabilirsiniz.
 
 Bölüm İçin İnteraktif İçerik
 ----------------------------
 
+Bu bölüm bir test içerir. Testi bu başlığın sonunda bulabilirsiniz.
+
 Kitap Hakkında: İnteraktif İçerikler Nedir?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Burada küçük bir özet geçme gereği duydum. Bu kitabı özel kılan yanlarından biri, bölümlerin sonunda okuyucuların tamamen isteğe bağlı, isimsiz, bireysel, yargılama ve değerlendirme olmadan bilgilerini kontrol edebildikleri interaktif içerikerin (quiz, test, küçük oyunlar) olmasıdır.
 
 Bölüm Sonu Testi
 ~~~~~~~~~~~~~~~~

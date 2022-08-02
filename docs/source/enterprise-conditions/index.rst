@@ -10,8 +10,20 @@ Merhaba! Eğer bir şirket sahibi iseniz ve bu projeyi şirketinizdeki çalışa
 Gereksinimler
 -------------
 
+* A
+* B
+* C
+
 Bu Projeyi Nasıl Kullanabilirsiniz?
 -----------------------------------
 
+* A
+* B
+* C
+
 Bu Projeyi Nasıl Kullanamazsınız?
 ---------------------------------
+
+* A
+* B
+* C

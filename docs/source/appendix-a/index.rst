@@ -13,7 +13,7 @@ A-E
 
 |
 
-* **Bit**: Bilgisayar veri biriminin yapıtaşı, bit. Bir bit, dijital işlemlerde sadece tek bir tane 0 veya 1 (açık veya kapalı) değerini temsil eden veridir.
+* **Bit**: Bilgisayar veri biriminin yapıtaşı, bit. Bir bit, dijital işlemlerde sadece tek bir tane 0 veya 1 (açık veya kapalı) değerini temsil eden veri türüdür.
 * **Boot**: Başlatmak, çalıştırmak. (Örn, boot a computer: bilgisayarı başlatmak)
 * **Bootloader**: Önyükleyici.
 * **Byte**: Bilgisayar veri birimi, bayt. Bir bayt, 8 tane bitten oluşur. (bkz: bit'in tanımı)
@@ -44,14 +44,14 @@ F-K
 
 |
 
-* **Kilobyte**: 1000 (SI) veya 1024 (gerçek işlem) tane bayttan oluşan veri türü, kilobayt.
+* **Kilobyte**: 1000 (SI standart birimi) veya 1024 (gerçek işlem) tane bayttan oluşan veri türü, kilobayt.
 
 |
 
 L-Q
 ---
 * **Malware**: 
-* **Megabyte**: 1000 (SI) veya 1024 (gerçek işlem) tane kilobayttan oluşan veri türü, megabayt. (1024\*1024 bayt)
+* **Megabyte**: 1000 (SI standart birimi) veya 1024 (gerçek işlem) tane kilobayttan oluşan veri türü, megabayt. (1024\*1024 bayt)
 
 |
 
@@ -66,10 +66,11 @@ L-Q
 R-W
 ---
 * **RAM (Random Access Memory)**: Aşırı hızlı veri depolama ünitesi, bellek. genellikle baş döndürücü hızlara çıkabilir, programlar RAM'e hızlı erişmeleri gereken verileri kopyalar, ancak RAM'in bilgisayar gücü kesilince silinir (kalıcı değildir).
+* **Ransomware**: , fidye yazılımı.
 
 |
 
-* **Trojan**: 
+* **Trojan**: Bulaştığı bilgisayara uzaktan erişim, kontrol veya izleme sağlayan zararlı yazılım, trojan atı.
 
 |
 
@@ -77,6 +78,8 @@ R-W
 * **Virus**: , virüs.
 
 |
+
+* **Worm**: Bir bilgisayara bulaştıktan sonra kendini çoğaltan ve başka bilgisayarlara yollayabilen zararlı yazılım, bilgisayar solucanı.
 
 X-Z
 ---
