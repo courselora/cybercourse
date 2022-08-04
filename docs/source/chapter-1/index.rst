@@ -32,6 +32,8 @@ Bu bölümde, dijital dünyada karşılaşabileceğiniz bazı konseptlere giriş
 Dijital Cihazlar Nelerdir?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Dijital cihazlar, elektronik devre parçaları içeren herhangi bir cihaza denir. Bu bilgisayarınızdan cebinizdeki telefona, televizyonunuzdan akıllı buzdolabınıza kadar değişebilir. (Evet, bazı buzdolaplarından internete bile girmek mümkün.) Bu cihazlar genelde İnternet erişimi sağlar, ama bunu yapmak zorunda değillerdir. Biz şu anki konumuz gereği dijital cihaz tanımını internet erişimi olan cihaz olarak alacağız.
+
 Dijital Cihazlar Nasıl Çalışır?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
