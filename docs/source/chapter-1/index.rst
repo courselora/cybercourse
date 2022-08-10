@@ -79,6 +79,7 @@ Ransomware'ler bulaştığı zaman bilgisayardaki dosyaları kalıcı olarak sil
 Adware/PUP/PUA (Genelde İstenmeyen Yazılım)
 """""""""""""""""""""""""""""""""""""""""""
 Bu tür yazılımlar genelde en zararsız ama başa çıkması en zor olan yazılımlardır. Adware gibi yazılımlar genelde internette tıklanan reklamlar veya bilmediğiniz bir kurulum programının yan ürünü olarak yüklenir ve tek amaçları reklam gösterip sinirinizi bozmaktır. Bu yazılımları genelde kaldırmak zordur ama bunun yolları vardır. (ilerki bölümlerde bunun ve diğer zararlıları kaldırma talimatlarına gireceğiz)
+
 Sonuç
 -----
 
