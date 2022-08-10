@@ -61,11 +61,13 @@ Virüs
 Malware
 """""""
 
-Trojan Atı
-""""""""""
+Trojan Atı (Spyware)
+""""""""""""""""""""
+Trojan atı, bulaştığı bilgisayara izinsiz uzaktan erişim sağlar. Eğer bir trojan atı bilgisayarınıza bulaşırsa, yazılımı tasarlayan (veya kontrol eden kişi) bilgisayarınızın ekranını görebilir, klavyenizi kaydedebilir (bu şifrelerinizin çalınmasına neden olabilir), mikrofon veya kameranıza bakabilir veya sisteminizdeki herhangi bir dosyaya uzaktan erişebilir.
 
 Solucan
 """""""
+Solucan türü yazılımların tek amacı vardır: Mümkün olduğu kadar kendini kopyalayıp yaymak. Günümüzde, solucanlar genelde başka virüs türleri için (örn. Trojan atı veya malware) taşıyıcı görevi görür veya bulaştığı bilgisayarları bir "botnet"e dahil eder (bilgisayarınızın ve daha binlercesinin ortak gücünü rızanıza karşı kullanarak işlemler veya saldırılar yapmak), ancak eskiden bu yazılımı tek başına da görebilmek mümkündü. Solucanlar, bulaştığı bilgisayara taşıdığı şeyi bıraktıktan sonra kendini çoğaltıp bulabildiği her yolla (e-posta, mesaj, dosya enjeksiyonu vs.) kendini başka bilgisayarlara yayar. Bunların en büyük örneği, ILOVEYOU adlı solucan, dünyadaki en çok bulaşma rekoruna sahiptir.
 
 Ransomware (Fidye Yazılımı)
 """"""""""
