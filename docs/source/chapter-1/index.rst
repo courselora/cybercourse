@@ -61,6 +61,9 @@ Virüs
 Malware
 """""""
 
+Virüs ve Malware'in Farkları
+""""""""""""""""""""""""""""
+
 Trojan Atı (Spyware)
 """"""""""""""""""""
 Trojan atı, bulaştığı bilgisayara izinsiz uzaktan erişim sağlar. Eğer bir trojan atı bilgisayarınıza bulaşırsa, yazılımı tasarlayan (veya kontrol eden kişi) bilgisayarınızın ekranını görebilir, klavyenizi kaydedebilir (bu şifrelerinizin çalınmasına neden olabilir), mikrofon veya kameranıza bakabilir veya sisteminizdeki herhangi bir dosyaya uzaktan erişebilir.
@@ -70,8 +73,12 @@ Solucan
 Solucan türü yazılımların tek amacı vardır: Mümkün olduğu kadar kendini kopyalayıp yaymak. Günümüzde, solucanlar genelde başka virüs türleri için (örn. Trojan atı veya malware) taşıyıcı görevi görür veya bulaştığı bilgisayarları bir "botnet"e dahil eder (bilgisayarınızın ve daha binlercesinin ortak gücünü rızanıza karşı kullanarak işlemler veya saldırılar yapmak), ancak eskiden bu yazılımı tek başına da görebilmek mümkündü. Solucanlar, bulaştığı bilgisayara taşıdığı şeyi bıraktıktan sonra kendini çoğaltıp bulabildiği her yolla (e-posta, mesaj, dosya enjeksiyonu vs.) kendini başka bilgisayarlara yayar. Bunların en büyük örneği, ILOVEYOU adlı solucan, dünyadaki en çok bulaşma rekoruna sahiptir.
 
 Ransomware (Fidye Yazılımı)
-""""""""""
+"""""""""""""""""""""""""""
+Ransomware'ler bulaştığı zaman bilgisayardaki dosyaları kalıcı olarak silmez. Ancak, bu dosyaları özel yollarla şifreleyip şifresi için sizden bir miktar para ister. Ransomware yazılımları genelde şirketleri hedef alır, ve bazen bu şirketler istediği parayı ödemeye bile razı olur (bu durumda, dosyaların kilidi söz verildiği gibi açılır) Bir ransomware ortaya çıktıktan sonra şifreleme düzeyine göre genelde 3-12 ay içinde deşifre edilebilir. (ransomware'in şifrelediği dosyaları para istemeden açmak mümkün olur, bir kilidin başkası tarafından kırılması gibi düşünün)
 
+Adware/PUP/PUA (Genelde İstenmeyen Yazılım)
+"""""""""""""""""""""""""""""""""""""""""""
+Bu tür yazılımlar genelde en zararsız ama başa çıkması en zor olan yazılımlardır. Adware gibi yazılımlar genelde internette tıklanan reklamlar veya bilmediğiniz bir kurulum programının yan ürünü olarak yüklenir ve tek amaçları reklam gösterip sinirinizi bozmaktır. Bu yazılımları genelde kaldırmak zordur ama bunun yolları vardır. (ilerki bölümlerde bunun ve diğer zararlıları kaldırma talimatlarına gireceğiz)
 Sonuç
 -----
 
