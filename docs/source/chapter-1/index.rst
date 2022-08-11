@@ -54,15 +54,15 @@ Sibergüvenlik birden fazla yöntemle sağlanabilir. Bu yöntemler karmaşık ol
 
 Dijital Zararlı Yazılımlar Nelerdir?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dijital zararlı yazılım türlerinin tamamına "malware" (zararlı yazılım) denir. Malware'in başlıca 5 türü vardır:
 
 Virüs
 """""
-
-Malware
-"""""""
+Virüsler, gerçek hayattaki virüslere benzer bir şekilde bir hedefin program veya dosyalarına kendini enjekte edip dosyayı modifiye eder. Böylece hedefin bilgisayarına genelde şüphe uyandırmadan girebilir.
 
 Virüs ve Malware'in Farkları
 """"""""""""""""""""""""""""
+Daha önceden bahsettiğim gibi, malware bütün zararlı yazılımlarken virüs sadece programlara kendini enjekte eden bir alt türdür. Bu iki kavram sıkça karıştırılabilir.
 
 Trojan Atı (Spyware)
 """"""""""""""""""""
