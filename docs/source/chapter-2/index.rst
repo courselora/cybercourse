@@ -15,10 +15,15 @@ Kendinizi Nasıl Güvenceye Alırsınız?
 Fiziksel Yollarla
 ~~~~~~~~~~~~~~~~~
 
-çok işe yaramasa da
+Genelde çok bir anlamı olmasa da, kendinizi fiziksel yollarla da güvenceye alabilirsiniz. Bunlardan başlıcaları;
+
+* Bilgisayarınızı kullanmadığınız zaman güvenli bir yere kaldırın.
+* 
+* 
 
 Teknolojik Yollarla
 ~~~~~~~~~~~~~~~~~~~
+Teknolojik yollar, sibergüvenlik açısından en etkili yollar grubudur. Bu yöntemlerin içinde;
 
 Yazılım Aracılığıyla (Anti-virüs, Firewall...)
 """"""""""""""""""""""""""""""""""""""""""""""
