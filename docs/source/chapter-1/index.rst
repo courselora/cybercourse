@@ -7,7 +7,7 @@ Bölüm 1: Sibergüvenliğe Giriş
 Giriş
 -----
 
-Sibergüvenlik, günümüz dünyasında herkesin bilmesi gereken ama kimsenin tam olarak bilmediği, dijital yaşam için neredeyse gerekli olan bilgilerden biri. Toplumun çoğunun, "sibergüvenlik" kelimesini duyduğu zaman aklından geçen ilk şey neredeyse her zaman "Bu çok karmaşık bir konu!"'dur. Şahsen, anlatımı doğru ve herkese hitap edecek bir şekilde yapıldığı sürece bu kanının hiç de doğru olmadığını düşünüyorum. Ancak, böyle bir kitle potansiyeli olan bir proje fikrinin hiç uygulanmaması bana ilginç geliyor. İşte tam bu yüzden bu projeyi oluşturdum: Sibergüvenlik konusunda bilgisi zayıf olan veya hiç olmayan, bu konuları genelde anlamayan insanlara bir girişte bulunmak ve toplumu günümüz siber dünyasının çetin koşullarına hazırlamak.
+Siber güvenlik, günümüz dünyasında herkesin bilmesi gereken ama kimsenin tam olarak bilmediği, dijital yaşam için neredeyse gerekli olan bilgilerden biri. Toplumun çoğunun, "siber güvenlik" kelimesini duyduğu zaman aklından geçen ilk şey neredeyse her zaman "Bu çok karmaşık bir konu!"'dur. Şahsen, anlatımı doğru ve herkese hitap edecek bir şekilde yapıldığı sürece bu kanının hiç de doğru olmadığını düşünüyorum. Ancak, böyle bir kitle potansiyeli olan bir proje fikrinin hiç uygulanmaması bana ilginç geliyor. İşte tam bu yüzden bu projeyi oluşturdum: Siber güvenlik konusunda bilgisi zayıf olan veya hiç olmayan, bu konuları genelde anlamayan insanlara bir girişte bulunmak ve toplumu günümüz siber dünyasının çetin koşullarına hazırlamak.
 
 Korkmayın! Bu dersleri herkesin anlayabileceği şekilde yazmaya özen gösterdim. Ancak, bu program sırasında gözünüzü korkutan herhangi bir sözcükle karşılaşırsanız, soldaki liste aşağıda bulunan "Teknoloji Sözlüğü"'ne uğramaktan çekinmeyin. Büyük ihtimalle o sözcüğün anlamını orda bulabilirsiniz.
 
@@ -34,19 +34,15 @@ Dijital Cihazlar Nelerdir?
 
 Dijital cihazlar, elektronik devre parçaları içeren herhangi bir cihaza denir. Bu bilgisayarınızdan cebinizdeki telefona, televizyonunuzdan akıllı buzdolabınıza kadar değişebilir. (Evet, bazı buzdolaplarından internete bile girmek mümkün.) Bu cihazlar genelde İnternet erişimi sağlar, ama bunu yapmak zorunda değillerdir. Biz şu anki konumuz gereği dijital cihaz tanımını internet erişimi olan cihaz olarak alacağız.
 
-Dijital Cihazlar Nasıl Çalışır?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-Sibergüvenlik Nedir?
+Siber Güvenlik Nedir?
 ~~~~~~~~~~~~~~~~~~~~
 
-İnternetin tarihini öğrendiğimize göre, şimdi internette görebileceğiniz bazı kavramlara giriş yapalım. Öncelikle, bu kitabın da ana konusu olan kavram: Sibergüvenlik. Sibergüvenlik, bir teknolojik cihazı korumak için alınan önlemlerden herhangi birine denir. 
+İnternetin tarihini öğrendiğimize göre, şimdi internette görebileceğiniz bazı kavramlara giriş yapalım. Öncelikle, bu kitabın da ana konusu olan kavram: Siber güvenlik. Siber güvenlik, bir teknolojik cihazı korumak için alınan önlemlerden herhangi birine denir. 
 
-Sibergüvenlik Hangi Yollarla Sağlanır?
+Siber Güvenlik Hangi Yollarla Sağlanır?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Sibergüvenlik birden fazla yöntemle sağlanabilir. Bu yöntemler karmaşık olmak bile zorunda değil! Bu yöntemlerden yanlızca bir kısmını özetlersek:
+Siber güvenlik birden fazla yöntemle sağlanabilir. Bu yöntemler karmaşık olmak bile zorunda değil! Bu yöntemlerden yanlızca bir kısmını özetlersek:
 
 * Elinizdeki cihazı fiziksel yöntemlerle korumak (örn. kullanılmadığı zaman cihazı güvenli bir yere koymak)
 * Cihazı yazılımsal yollarla korumak (örn. anti-virüs yazılımı kullanmak)
@@ -83,7 +79,7 @@ Bu tür yazılımlar genelde en zararsız ama başa çıkması en zor olan yazı
 Sonuç
 -----
 
-Tebrikler! Bu bölümü bitirdiyseniz, sibergüvenlik derslerinde bir başlangıç yapmaya hazırsınız demektir! Burdan sonra, bir sonraki bölüme ilerleyebilir, veya bilginizi kontrol etmek için bölüm sonundaki testi yapabilirsiniz.
+Tebrikler! Bu bölümü bitirdiyseniz, siber güvenlik derslerinde bir başlangıç yapmaya hazırsınız demektir! Burdan sonra, bir sonraki bölüme ilerleyebilir, veya bilginizi kontrol etmek için bölüm sonundaki testi yapabilirsiniz.
 
 Bölüm İçin İnteraktif İçerik
 ----------------------------

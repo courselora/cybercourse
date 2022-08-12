@@ -1,7 +1,7 @@
 Ek C: Yararlı Kaynaklar
 =======================
 
-Sibergüvenlik konusu hakkında daha fazla bilgi istiyorsanız, aşağıda verilen kaynak ve websitelerine göz atmanızı tavsiye ederim.
+Siber güvenlik konusu hakkında daha fazla bilgi istiyorsanız, aşağıda verilen kaynak ve websitelerine göz atmanızı tavsiye ederim.
 
 İnteraktif Kurslar
 ------------------
