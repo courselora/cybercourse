@@ -94,4 +94,4 @@ Burada küçük bir özet geçme gereği duydum. Bu kitabı özel kılan yanlar�
 Bölüm Sonu Testi
 ~~~~~~~~~~~~~~~~
 
-Bölüm sonu testine erişmek için `buraya tıklayın <https://wordwall.net/resource/34806105>`_
+Bölüm sonu testine erişmek için `buraya tıklayın. <https://wordwall.net/resource/34806105>`_
