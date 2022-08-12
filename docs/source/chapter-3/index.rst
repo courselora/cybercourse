@@ -6,6 +6,7 @@ Bölüm 3: Kişisel Bilgisayar Güvenliği: Güvenli Yazılım
 
 Giriş
 -----
+Error importing "$ROOT/internal/content/c3.json": syntax error near 1:1
 
 Sonuç
 -----

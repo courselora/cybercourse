@@ -6,6 +6,7 @@ Bölüm 4: İnternet Güvenliği: İnternet Bağlantısı
 
 Giriş
 -----
+Error importing "$ROOT/internal/content/c4.json": syntax error near 1:1
 
 Sonuç
 -----

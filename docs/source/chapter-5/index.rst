@@ -6,6 +6,7 @@ Bölüm 5: İnternet Güvenliği: Gizlilik
 
 Giriş
 -----
+Error importing "$ROOT/internal/content/c5.json": syntax error near 1:1
 
 Sonuç
 -----

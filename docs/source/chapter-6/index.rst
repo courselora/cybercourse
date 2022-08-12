@@ -6,6 +6,7 @@ Bölüm 6: İnternet Güvenliği: Dijital Hesaplar
 
 Giriş
 -----
+Error importing "$ROOT/internal/content/c6.json": syntax error near 1:1
 
 Sonuç
 -----

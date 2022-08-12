@@ -5,8 +5,12 @@
 .DS_Store
 Thumbs.db
 
-# Sensitive
+# Sensitive data
 /paper
 
 # Local build of documentation
 /docs/build
+
+
+# Internal stuff
+/internal
