@@ -1,16 +1,9 @@
-# Ignore private archive
-/archive/private
-
 # Unneded tempfiles
 .DS_Store
 Thumbs.db
 
-# Sensitive data
-/paper
-
 # Local build of documentation
 /docs/build
-
 
 # Internal stuff
 /internal
