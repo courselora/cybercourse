@@ -56,7 +56,7 @@ Ekler
 * :doc:`/appendix-a/index`
 * :doc:`/appendix-b/index`
 * :doc:`/appendix-c/index`
-* :doc:`/enterprise-conditions/index`
+* :doc:`/appendix-d/index`
 
 .. toctree::
    :maxdepth: 2
@@ -66,7 +66,7 @@ Ekler
    /appendix-a/index
    /appendix-b/index
    /appendix-c/index
-   /enterprise-conditions/index
+   /appendix-d/index
 
 Proje ve Yazar Hakkında
 ---------------------------
