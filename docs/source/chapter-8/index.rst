@@ -1,5 +1,5 @@
 Bölüm 8: Gelişmiş Konseptler: Yazılım
-=====================================
+===========================================
 
 .. meta::
    :description lang=tr: Kitabın sekizinci (ek) bölümü, "Gelişmiş Konseptler: Yazılım".

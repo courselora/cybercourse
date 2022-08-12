@@ -1,5 +1,5 @@
 Ek A: Teknoloji Sözlüğü
-=======================
+===========================
 
 .. meta::
    :description lang=tr: Burada siberteknoloji hakkında bir mini-sözlüğe erişebilirsiniz.

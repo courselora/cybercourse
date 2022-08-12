@@ -1,5 +1,5 @@
 Bölüm 7: Gelişmiş Konseptler: İnternet
-======================================
+===========================================
 
 .. meta::
    :description lang=tr: Kitabın yedinci (ek) bölümü, "Gelişmiş Konseptler: İnternet".

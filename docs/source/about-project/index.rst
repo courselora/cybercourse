@@ -1,5 +1,5 @@
 Proje Hakkında
-==============
+===============
 
 .. meta::
    :description lang=tr: Proje hakkında bilgilendirme kısmı.

@@ -1,5 +1,5 @@
 Yazar ile İletişime Geç
-=======================
+==========================
 
 Yazar ile iletişime geçmek için GitHub'dan yeni bir `sorun <https://github.com/iblowmymind/cybercourse/issues>`_ oluşturabilirsiniz!
 

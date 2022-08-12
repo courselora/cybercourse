@@ -1,5 +1,5 @@
 Bölüm 2: Sibergüvenliğin Esasları
-=================================
+======================================
 
 .. meta::
    :description lang=tr: Kitabın ikinci bölümü, "Sibergüvenliğin Esasları".

@@ -1,5 +1,5 @@
 Cybercourse: Siber Güvenlik Eğitim Yazılımı
-===========================================
+================================================
 
 .. meta::
    :description lang=tr: Cybercourse, 7'den 70'e herkesi gelişen teknolojik ortamda siber güvenliğe eğitme amaçlı yazılan bir interaktif websitesidir.

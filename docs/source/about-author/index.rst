@@ -1,5 +1,5 @@
 Yazar Hakkında
-==============
+===============
 
 .. meta::
    :description lang=tr: Yazar hakkında bilgilendirme kısmı.
